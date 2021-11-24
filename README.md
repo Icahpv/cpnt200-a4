@@ -3,7 +3,7 @@
 
 Author: Icah Vega
 Instructor: [Ashlyn Knox](https://github.com/lilyx13)
-Links: [GitHub Repo Link](https://github.com/Icahpv/cpnt200-a4) || [GitHub Pages Link]()
+Links: [GitHub Repo Link](https://github.com/Icahpv/cpnt200-a4) || [Netlify Link](https://cpnt200-a4.netlify.app/)
 
 ## Assignment Review
 
