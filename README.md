@@ -7,6 +7,29 @@
 
 ## Assignment Review
 
+
+- [x] Vue Components
+  - [x] You should have 3 components
+  - [x] Their names should be capitalized
+  - [x] HTML content should be in a template tag
+  - [x] Add the components to your main layout
+
+- [x] Vue Directives
+  - [] Use v-html once (include html tag in the string)
+  
+  - [x] Use v-text once (no html in string)
+    > [Gallery Component](Gallery.vue), Line 7
+  - [x] Use moustache syntax once
+
+- [x] Styles
+  - [x] Use your choice of CSS Framework (tailwind, bulma, vuetify...)
+  - [x] All content should be styled using your framework
+  - [x]Unscoped styles on pages
+  - [x] add scoped styles to your components (if necessary)
+
+- [x] Readme
+
+
 - I enjoy VueJs and NuxtJs, but I do think I might need more example on how to do things.
 - Errors: I found a lot of errors with EsLint and Prettier, EsLint was a lot easier to figure out given their informative [documentation](https://eslint.vuejs.org/user-guide/).
 - I tried doing the if/else using vue, it wasn't successful.
