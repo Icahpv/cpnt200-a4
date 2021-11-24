@@ -17,7 +17,7 @@
     "rules": {
         "comma-dangle": ["error", "never"],
         "vue/multi-word-component-names": ["error", {
-            "ignores": ["Header", "Footer", "index", "Navigation", "gallery", "Gallery"]
+            "ignores": ["Header", "Footer", "index", "Navigation", "gallery", "Gallery", "Content"]
           }],
         "no-trailing-spaces": ["error", { "skipBlankLines": true }],
         "eol-last": ["error", "always"]

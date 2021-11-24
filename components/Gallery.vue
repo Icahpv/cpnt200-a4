@@ -1,7 +1,7 @@
 <template>
-  <v-container class="flex justify-center align-center text-center m-20">
+  <v-container class="flex justify-center align-center text-left m-20">
     <v-main class=" flex justify-center align-center flex-col m-20">
-       <h1>{{ galleryPage.title }}</h1>
+       <h1 class="font-bold italic">"{{ galleryPage.title }}"</h1>
     <ul>
       <li>Photographer: {{ galleryPage.photographer }}</li>
       <li>Location: {{ galleryPage.location }} </li>
