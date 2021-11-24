@@ -35,6 +35,7 @@
 - I tried doing the if/else using vue, it wasn't successful.
 - The hardest thing about using nuxt and vue is the syntax, it's very different from the usual HTML and JS, it's even more frustrating when you're just learning JS and you start learning a new way of writing it, on the bright side, it does not look too different that you would not recognize it and some things are easier to write than vanilla JS, with the help of documentations and examples, I do see myself creating more projects with vue.
 - I also could not get my images to line properly and I can't get it to go in a row, not sure if it's a total brain fart, but I resulted to a different layout.
+- Photographer Link: I wonder if there's a better way to do that, it won't direct me to the page I want it to.
 
 ### Attributions
 

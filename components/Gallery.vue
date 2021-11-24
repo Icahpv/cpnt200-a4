@@ -3,7 +3,7 @@
     <v-main class=" flex justify-center align-center flex-col m-20">
        <h1 class="font-bold italic">"{{ galleryPage.title }}"</h1>
     <ul>
-      <li>Photographer: <NuxtLink class="hover:text-red-400 font-bold" :to="galleryPage.account" target="_blank" :alt="galleryPage.description">{{ galleryPage.photographer }}</NuxtLink></li>
+      <li>Photographer: <NuxtLink class="hover:text-red-400 font-bold" :to="galleryPage.account" target="_blank" alt="galleryPage.description">{{ galleryPage.photographer }}</NuxtLink></li>
       <li v-text="galleryPage.location"></li>
     </ul>
     </v-main>
