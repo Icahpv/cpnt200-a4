@@ -1,9 +1,9 @@
 # CPNT200-a4
 **nuxt-travel**
 
-Author: Icah Vega
-Instructor: [Ashlyn Knox](https://github.com/lilyx13)
-Links: [GitHub Repo Link](https://github.com/Icahpv/cpnt200-a4) || [Netlify Link](https://cpnt200-a4.netlify.app/)
+- Author: Icah Vega
+- Instructor: [Ashlyn Knox](https://github.com/lilyx13)
+- Links: [GitHub Repo Link](https://github.com/Icahpv/cpnt200-a4) || [Netlify Link](https://cpnt200-a4.netlify.app/)
 
 ## Assignment Review
 
@@ -11,6 +11,7 @@ Links: [GitHub Repo Link](https://github.com/Icahpv/cpnt200-a4) || [Netlify Link
 - Errors: I found a lot of errors with EsLint and Prettier, EsLint was a lot easier to figure out given their informative [documentation](https://eslint.vuejs.org/user-guide/).
 - I tried doing the if/else using vue, it wasn't successful.
 - The hardest thing about using nuxt and vue is the syntax, it's very different from the usual HTML and JS, it's even more frustrating when you're just learning JS and you start learning a new way of writing it, on the bright side, it does not look too different that you would not recognize it and some things are easier to write than vanilla JS, with the help of documentations and examples, I do see myself creating more projects with vue.
+- I also could not get my images to line properly and I can't get it to go in a row, not sure if it's a total brain fart, but I resulted to a different layout.
 
 ### Attributions
 
